@@ -1,0 +1,4 @@
+node_modules
+backend/REQUEST.rest
+frontend/node_modules
+.env
